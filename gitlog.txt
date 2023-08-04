@@ -1,0 +1,203 @@
+commit 2e936835e1b46a52430016f5d3686d44f801a1b3
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 21:59:23 2023 -0400
+
+    added std::map::string to the declaration of c_operation_helper function in language_model.h
+
+commit 1661afb6802bd454c9546b0e92d9a738e84f07ff
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 21:53:53 2023 -0400
+
+    HW5: changed cout to cerr in the main function
+
+commit d50ae73930fb987fca19d447ee14e91eae764238
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 21:51:48 2023 -0400
+
+    Added README
+
+commit 4e5b8cf6232b157deae34ba727d3814f649c37e5
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 21:37:09 2023 -0400
+
+    HW5: pre-gradescope version
+
+commit 5a2e01c89aabafc5ddd2fbfe8f3ac8e9d5e3a996
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 21:36:06 2023 -0400
+
+    HW5:Modified main so that it parse the input file list by word instead of by line
+
+commit 7777a712986265bd0334a90e5bf6a7a7e1939a8d
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 21:34:11 2023 -0400
+
+    Modified main so that it parse the input file list by word instead of by line
+
+commit c375f3c4f11da81c8de289d43b81b3a0c64d7013
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 21:10:18 2023 -0400
+
+    HW5: preliminary version. Avoided printing c_operation's output when calling it in f_operation using the c_operation helper function
+
+commit 39e8d6c071a1303854f586602a6cf6656f08d147
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Apr 1 13:01:51 2023 -0400
+
+    ex23
+
+commit 5f0e45e47bde7bb9702719935666855710d866ff
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Mar 4 19:00:25 2023 -0500
+
+    HW3 Finalized
+
+commit 8fe9924ceee2fefb6ef47bc70d0daeed71d77a06
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Mar 4 18:57:32 2023 -0500
+
+    HW3 Updated hw3.c
+
+commit f85aaecbc7499e63d4bdc4c742ff4e39643bdce7
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Mar 4 18:44:49 2023 -0500
+
+    AddHW3addedome tests to the test_function file
+
+commit 91447605ddc40c423cfe76d5ea9d7304d61b4318
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Mar 4 18:32:15 2023 -0500
+
+    HW3 working version
+
+commit fbc37fab6d183fc824356cc571785fdf3bea440a
+Author: Grace <yqiu26@jh.edu>
+Date:   Fri Mar 3 17:58:25 2023 -0500
+
+    hw3 finished *
+
+commit 102f3292a0a788bf4102d004399bbda1e8b9f423
+Author: Grace <yqiu26@jh.edu>
+Date:   Wed Mar 1 16:42:19 2023 -0500
+
+    left ex11 unfinished, but understood the concepts
+
+commit 071007b0c47cfd286e94b114f51880695577487f
+Author: Grace <yqiu26@jh.edu>
+Date:   Wed Mar 1 16:23:52 2023 -0500
+
+    ex09 working version
+
+commit 3dfe7e575d303a8e65fa884c5a84ab796b5fe1bd
+Author: Grace <yqiu26@jh.edu>
+Date:   Wed Mar 1 15:46:42 2023 -0500
+
+    ex08 all parts completed
+
+commit 03450719e31b0fbd590c3645c7234598b6096331
+Author: Grace <yqiu26@jh.edu>
+Date:   Wed Mar 1 15:26:21 2023 -0500
+
+    ex08 completed part 3
+
+commit 54804996451b791d30518b8a77c92218c394bde0
+Author: Grace <yqiu26@jh.edu>
+Date:   Tue Feb 28 15:15:25 2023 -0500
+
+    partially completed ex06 functions.c
+
+commit 581e94e054e6208c18bde85bd572685b8be65773
+Author: Grace <yqiu26@jh.edu>
+Date:   Tue Feb 28 14:32:44 2023 -0500
+
+    Updated working version ex06 compound.c
+
+commit 9c01f126a0477dc926fda305eb88851d44d877a2
+Author: Grace <yqiu26@jh.edu>
+Date:   Tue Feb 28 13:09:29 2023 -0500
+
+    working version ex06 compound.c
+
+commit d5936a362ea90e9ff83a99a71e45b4a80326aeb1
+Author: Grace <yqiu26@jh.edu>
+Date:   Mon Feb 27 16:22:03 2023 -0500
+
+    update4 hw1 coins.c after Gradescope
+
+commit 760e6c5b6a6adcc28ee6d1183e4c8b5eb0c365a8
+Author: Grace <yqiu26@jh.edu>
+Date:   Mon Feb 27 16:18:11 2023 -0500
+
+    update3 hw1 coins.c after Gradescope
+
+commit 4151324da3cb6d2536cca1a9d4dbdab389038e6f
+Author: Grace <yqiu26@jh.edu>
+Date:   Mon Feb 27 16:10:16 2023 -0500
+
+    update2 hw1 coins.c after Gradescope
+
+commit 16517bdb9fcb7fea93fd0efdc8b76fed4173606d
+Author: Grace <yqiu26@jh.edu>
+Date:   Mon Feb 27 15:57:09 2023 -0500
+
+    update1 hw1 coins.c after Gradescope
+
+commit 3d2922dc93c2f4e6bc5cf4cdc8d81551f68c1953
+Author: Grace <yqiu26@jh.edu>
+Date:   Mon Feb 27 15:37:31 2023 -0500
+
+    updated hw1 coins.c so that it terminates cleanly when user push ctrl-d
+
+commit be8352a953e80db4bd2dd9d8e7cce5f04954d868
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Feb 25 20:50:12 2023 -0500
+
+    hw1 working version with comments
+
+commit 408d10450ab1619d955a68e1fe4258c0ba5a8292
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Feb 25 20:30:30 2023 -0500
+
+    hw1 coins.c working version
+
+commit 5269264410a0b07b2c17d5eee09861882e46d9a0
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Feb 25 14:40:34 2023 -0500
+
+    hw0 three.c working version
+
+commit 71eb048b0668d5f1b7939e063b4f6d326e066368
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Feb 25 14:38:56 2023 -0500
+
+    hw0 two.c working version
+
+commit c377c480a5a5596613a09cd6fb8056865628e2f8
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Feb 25 14:36:16 2023 -0500
+
+    hw0 one.c working version
+
+commit 1c87ae5a3fd81d5e8cabdfd39d1605ef67262d19
+Author: Grace <yqiu26@jh.edu>
+Date:   Sat Feb 25 14:12:02 2023 -0500
+
+    ex05 count1 working version
+
+commit 2c171d9bd9dfd45bc76d7acc752831a14208c03a
+Author: Grace <yqiu26@jh.edu>
+Date:   Thu Feb 23 12:25:48 2023 -0500
+
+    ex04 working version
+
+commit 4d781f5d12178a0ea66becf3606d3d24defcb1aa
+Author: Grace <yqiu26@jh.edu>
+Date:   Tue Feb 21 14:55:16 2023 -0500
+
+    updated README
+
+commit 74222d2d205186109ad7b36c6bdb08fb056c513b
+Author: Grace <yqiu26@jh.edu>
+Date:   Tue Feb 21 14:48:49 2023 -0500
+
+    This is a file contains infomration about my name, JHED, class year, and major

@@ -1,0 +1,19 @@
+Name: Grace Qiu
+JHED: yqiu26
+
+Functions void a_operation, void d_operation, void c_operation, void f_operation
+each correspond to a command "a", "d", "c", or "f".
+
+In my f_operation, I performed c_operation to sort the vector in decreasing order 
+by count, then lexicographically, so that I can look for word1 and word2 from top 
+down directly without having to do additional comparisons.
+
+To avoid printing the results from c_operation when calling it in f_operation, 
+I added a void c_operation_helper(map<string, int>& trigram_freq_map, bool print_output).
+When calling it in f_operation, I will set the bool print_output to false. WHen calling
+c_operation independently, bool print_output is set to true.
+
+
+
+
+
